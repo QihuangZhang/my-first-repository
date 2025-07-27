@@ -2,4 +2,5 @@
 
 Make changes
 
-Add by me 
+
+Add by me (changes from my collaborator)
